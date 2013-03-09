@@ -15,7 +15,7 @@
     "json2json",
     "json",
     "template",
-    "transform",
+    "transform"
   ],
   "main": "lib/node-json2json.js",
   "dependencies": {},
