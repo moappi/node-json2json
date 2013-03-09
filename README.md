@@ -8,7 +8,7 @@ node-json2json is a node module that implements the json restructuring engine <a
 Installation
 ------------
 
-	npm install node-json2html
+	npm install node-json2json
 
 Usage
 -----
