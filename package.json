@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "Chad Brown",
+    "email": "info@json2html.com",
+    "url": "http://json2html.com"
+  },
+  "name": "node-json2json",
+  "description": "node-json2json - Javascript JSON Restructuring Library",
+  "version": "0.0.1",
+  "homepage": "http://json2html.com",
+  "repository": {
+    "url": "git://github.com/moappi/node-json2json.git"
+  },
+  "keywords": [
+    "json2json",
+    "json",
+    "template",
+    "transform",
+  ],
+  "main": "lib/node-json2json.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
