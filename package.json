@@ -6,7 +6,7 @@
   },
   "name": "node-json2json",
   "description": "node-json2json - Javascript JSON Restructuring Library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://json2html.com",
   "repository": {
     "url": "git://github.com/moappi/node-json2json.git"
